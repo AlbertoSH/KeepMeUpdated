@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/keep_me_updated.iml" filepath="$PROJECT_DIR$/.idea/modules/keep_me_updated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/keep_me_updated_main.iml" filepath="$PROJECT_DIR$/.idea/modules/keep_me_updated_main.iml" group="keep_me_updated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/keep_me_updated_test.iml" filepath="$PROJECT_DIR$/.idea/modules/keep_me_updated_test.iml" group="keep_me_updated" />
+    </modules>
+  </component>
+</project>
